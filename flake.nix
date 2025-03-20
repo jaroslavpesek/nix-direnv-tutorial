@@ -23,8 +23,6 @@
             pkgs.nixpkgs-fmt
             pkgs.cmake
             pkgs.gcc
-            pkgs.editorconfig-checker
-            pkgs.clang-tools
             netmonpkgs.packages.x86_64-linux.nemea-modules-meta
             netmonpkgs.packages.x86_64-linux.nemea-framework
           ];
